@@ -1,7 +1,6 @@
 # Welcome to your Jupyter Book
 
-This is a small sample book to give you a feel for how book content is
-structured.
+This is Laura's book! Have a look, how amazing Laura's Notebpook is!! :D
 
 :::{note}
 Here is a note!
