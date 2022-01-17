@@ -3,6 +3,24 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
+parts:
+    chapters:
+    - file: markdown
+    - file: start
+    - file: databreaches
+        sections:
+        - file: lineplot_db
+        - file: bubblechart_db
+    - file: attackvectors
+        sections:
+        - file: treemap_av
+    - file: phising
+        sections:
+        - file: piechart_ph
+        - file: barchart_ph
+        - file: barchart2_ph
+    - file: passwortsicherheit
+        sections:
+        - file: wordcloud
+        - file: passwortrechner
+    - file: notebooks
